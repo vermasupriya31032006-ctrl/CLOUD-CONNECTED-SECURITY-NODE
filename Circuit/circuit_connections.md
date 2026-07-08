@@ -1,1 +1,12 @@
 
+# Connections
+
+HC-SR04 -> ESP32
+
+VCC -> 5V
+
+GND -> GND
+
+TRIG -> GPIO5
+
+ECHO -> GPIO18
